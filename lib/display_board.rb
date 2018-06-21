@@ -5,4 +5,4 @@ def display_board:
   puts(spaces[3] + "|" + spaces[4] + "|" + spaces[5])
   puts(spaces[6] + "|" + spaces[7] + "|" + spaces[8])
 
-display_board()
+display_board
